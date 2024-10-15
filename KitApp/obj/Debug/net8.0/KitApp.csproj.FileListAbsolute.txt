@@ -1,0 +1,14 @@
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\bin\Debug\net8.0\KitApp.exe
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\bin\Debug\net8.0\KitApp.deps.json
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\bin\Debug\net8.0\KitApp.runtimeconfig.json
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\bin\Debug\net8.0\KitApp.dll
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\bin\Debug\net8.0\KitApp.pdb
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\KitApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\KitApp.AssemblyInfoInputs.cache
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\KitApp.AssemblyInfo.cs
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\KitApp.csproj.CoreCompileInputs.cache
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\KitApp.dll
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\refint\KitApp.dll
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\KitApp.pdb
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\KitApp.genruntimeconfig.cache
+C:\Users\mngul\Desktop\Arman hoca c#\KitApp\KitApp\obj\Debug\net8.0\ref\KitApp.dll
